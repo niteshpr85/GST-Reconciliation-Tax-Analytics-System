@@ -6,6 +6,10 @@ A beginner-friendly, industry-style GST reconciliation system built with Streaml
 
 This system compares company GST purchase/sales records with government GSTR-2B data to identify: missing invoices, duplicate invoices, taxable value mismatches, GST mismatches, and reconciliation gaps. It also supports corrections, dashboard analytics, and exportable Excel/PDF reports.
 
+
+https://github.com/user-attachments/assets/3f76cbf3-2888-40a1-8152-48be2090c019
+
+
 ## Features
 
 - Clean and validate GST invoice data
